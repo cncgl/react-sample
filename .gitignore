@@ -1,4 +1,8 @@
 node_modules
-/build
+coverage
+build
 *.log*
 .DS_Store
+npm-debug.log
+.idea
+
